@@ -15,7 +15,7 @@
 
 ## 📝 Sobre mí
 Desarrollador de Software especializado en **aplicaciones clínicas y bases de datos**.  
-Me enfoco en construir **soluciones escalables y confiables**, usando **.NET, Python y SQL**, aplicando buenas prácticas de arquitectura y diseño de software.  
+Me enfoco en construir **soluciones escalables y confiables**, usando **.NET,C#,Python,Java,SQL**, aplicando buenas prácticas de arquitectura y diseño de software.  
 
 Actualmente, participo en proyectos de **integración de sistemas clínicos y análisis de datos**, fortaleciendo habilidades en **Big Data, automatización de procesos** y desarrollo de aplicaciones críticas para el sector salud.
 
