@@ -9,7 +9,7 @@
 
 📍 Medellín, Colombia · 🌐 Español  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/juan-camilo-londo%C3%B1o-amaya-425679256/)) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancamilo@email.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=appveyor&logoColor=white)](https://portfolio-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/juan-camilo-londoño-amaya-425679256/)](https://www.linkedin.com/in/juan-camilo-londoño-amaya/)) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancamilo@email.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=appveyor&logoColor=white)]([https://portfolio-](https://juan-camilo-londono.vercel.app/))
 
 ---
 
