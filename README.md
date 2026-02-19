@@ -42,7 +42,7 @@ Actualmente, participo en proyectos de **integración de sistemas clínicos y an
 
 ---
 
-👉 [Conoce portfolio completo](https://portfolio)
+👉 [Conoce portfolio completo](https://juan-camilo-londono.vercel.app/)
 
 ---
 
